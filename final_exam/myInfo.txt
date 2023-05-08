@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 John Baran  jbaran@villanova.edu
+=======
+John Baran
+
+Mike Green
+>>>>>>> f5072dff5c05f4e88af289a015a6690cd3dbf34f
